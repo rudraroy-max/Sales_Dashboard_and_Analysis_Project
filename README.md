@@ -4,7 +4,7 @@ An end-to-end data science project analysing 5,009 sales orders
 across 4 regions from 2014–2018.
 
 ## Dataset link for Download
--kaggle.com/datasets/vivek468/superstore-dataset-final
+- kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 📊 Dataset
 - Source: Kaggle 
